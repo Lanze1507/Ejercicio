@@ -1,6 +1,8 @@
+
 #include <iostream>
 using namespace std;
-
+//Cristopher Lanse Castellanos Perez 
+//0909-24-12593
 
 int factorial(int n) {
     int fact = 1;
